@@ -3,7 +3,7 @@
 
 Setting
 
- In a post-apocalyptic world PC is part of an organization called “The Ordinance” which
+ In a post-apocalyptic world PC is part of an organization called “The Ordnance” which
  is effectively a group of gun runners who make and supply weapons across the wasteland.
 
 Player and Enemies 
